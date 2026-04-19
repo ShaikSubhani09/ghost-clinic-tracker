@@ -70,6 +70,16 @@ To improve transparency and accessibility in **rural healthcare** through commun
 
 Would you like me to also add a **Screenshots** section or **Demo** link placeholder? I can enhance it further if needed.
 
+## UI
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 ## 📌 Future Enhancements
 
 - Mobile app version (React Native)
