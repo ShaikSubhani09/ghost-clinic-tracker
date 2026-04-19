@@ -21,24 +21,20 @@ By making all reports publicly visible through interactive dashboards, maps, and
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- React.js
-- Tailwind CSS
-
-**Backend & Database:**
-- Firebase (Firestore + Authentication)
-
-**Others:**
-- Google Maps API / Leaflet
-- Chart.js / Recharts
+| Layer | Technology |
+|---|---|
+| Frontend | React.js, Tailwind CSS |
+| Backend & Database | Firebase (Firestore + Authentication) |
+| Maps | OpenStreetMap / Leaflet |
+| Charts | Chart.js / Recharts |
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Getting Started
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ghost-clinic-tracker.git
+git clone https://github.com/ShaikSubhani09/ghost-clinic-tracker.git
 
 # Navigate to the project folder
 cd ghost-clinic-tracker
@@ -48,37 +44,37 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
-## 🌐 Usage
+---
+
+## 🌐 How to Use
 
 1. Open the application in your browser
 2. Browse or search for a healthcare centre
-3. Submit a status report (Open / Closed / No Doctor / No Medicines)
+3. Submit a status report — **Open / Closed / No Doctor / No Medicines**
 4. View real-time updates on the dashboard and map
 5. Explore analytics and insights
+
+---
 
 ## 🎯 Purpose
 
 To improve transparency and accessibility in **rural healthcare** through community-driven reporting and real-time monitoring.
 
-### How to use:
+---
 
-1. Create a new file in your repository root called `README.md`
-2. Copy and paste the above content
-3. Replace `https://github.com/your-username/ghost-clinic-tracker.git` with your actual repository URL
-4. (Optional) Add screenshots or demo GIFs in a new section if you have them
+## 🖼️ Screenshots
 
-Would you like me to also add a **Screenshots** section or **Demo** link placeholder? I can enhance it further if needed.
+![Dashboard overview](image.png)
 
-## UI
+![Map view](image-1.png)
 
-![alt text](image.png)
+![Clinic status report](image-2.png)
 
-![alt text](image-1.png)
+![Analytics & insights](image-3.png)
 
-![alt text](image-2.png)
-
-![alt text](image-3.png)
+---
 
 ## 📌 Future Enhancements
 
@@ -88,12 +84,18 @@ Would you like me to also add a **Screenshots** section or **Demo** link placeho
 - Verified user system
 - Admin panel for moderation
 
+---
+
 ## 👥 Team
 
-- **K. Hansini**
-- **V. Nischitha**
-- **Shaik Subhani**
-- **B. Prashanth**
+| Name | Role |
+|---|---|
+| K. Hansini | Developer |
+| V. Nischitha | Developer |
+| Shaik Subhani | Developer |
+| B. Prashanth | Developer |
+
+---
 
 ## 📄 License
 
